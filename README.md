@@ -23,21 +23,21 @@ SIT720-Task-11.1HD/
 │
 ├── README.md
 ├── requirements.txt
-├── Task_11_1HD.ipynb
+├── Task 11.1HD.ipynb
 │
 ├── data/
 │   └── heart.csv
 │
 └── report/
-    └── SIT720_Task_11_1HD_Report.pdf
+    └── Ananya Gupta- Task_11.1HD_Report.pdf
 ```
 
 ### Files
 
-* **`Task_11_1HD.ipynb`** – Complete Jupyter Notebook containing Part 1 reproduction, Part 2 proposed solution, experiments, evaluation and visualisations.
+* **`Task 11.1HD.ipynb`** – Complete Jupyter Notebook containing Part 1 reproduction, Part 2 proposed solution, experiments, evaluation and visualisations.
 * **`requirements.txt`** – Python package versions used for the implementation.
 * **`data/heart.csv`** – Heart disease dataset used for the reproduction and proposed solution.
-* **`report/SIT720_Task_11_1HD_Report.pdf`** – Technical research report containing the methodology, results and critical analysis.
+* **`report/Ananya Gupta- Task_11.1HD_Report.pdf`** – Technical research report containing the methodology, results and critical analysis.
 
 ---
 
@@ -433,7 +433,7 @@ jupyter notebook
 Open:
 
 ```text
-Task_11_1HD.ipynb
+Task 11.1HD.ipynb
 ```
 
 Before reproducing the results, restart the kernel and select:
@@ -454,7 +454,7 @@ To reproduce the submitted experiments:
 
 1. Install the packages listed in `requirements.txt`.
 2. Ensure the dataset is available in the repository's `data/` directory.
-3. Open `Task_11_1HD.ipynb`.
+3. Open `Task 11.1HD.ipynb`.
 4. Restart the Jupyter kernel.
 5. Run all cells from top to bottom.
 6. Confirm that the Part 1 model results are generated.
