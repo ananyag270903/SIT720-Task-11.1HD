@@ -4,9 +4,8 @@
 
 This repository contains my implementation for SIT720 Task 11.1HD. The project reproduces and critically evaluates the machine learning methods presented in the research paper:
 
-**M. Bhagat, A. Sharma, and P. Agarwal, “An efficient stacking-based ensemble technique for early heart attack prediction,” Multimedia Tools and Applications, vol. 84, no. 30, pp. 36351–36375 (2025).https://link.springer.com/article/10.1007/s11042-024-19293-7?utm_source=researchgate.net&utm_medium=article**
-
-DOI: 10.1007/s11042-024-19293-7
+**M. Bhagat, A. Sharma, and P. Agarwal, “An efficient stacking-based ensemble technique for early heart attack prediction,” Multimedia Tools and Applications, vol. 84, no. 30, pp. 36351–36375 (2025). DOI:10.1007/s11042-024-19293-7. 
+https://link.springer.com/article/10.1007/s11042-024-19293-7?utm_source=researchgate.net&utm_medium=article**
 
 The project is divided into two main experimental parts:
 
@@ -570,5 +569,5 @@ The accompanying video presentation demonstrates the reproduction, proposed solu
 
 ## Reference
 
-M. Bhagat, A. Sharma, and P. Agarwal, “An efficient stacking-based ensemble technique for early heart attack prediction,” *Multimedia Tools and Applications*, vol. 84, no. 30, pp. 36351–36375 (2025). doi: 10.1007/s11042-024-19293-7. https://link.springer.com/article/10.1007/s11042-024-19293-7?utm_source=researchgate.net&utm_medium=article 
+M. Bhagat, A. Sharma, and P. Agarwal, “An efficient stacking-based ensemble technique for early heart attack prediction,” *Multimedia Tools and Applications*, vol. 84, no. 30, pp. 36351–36375 (2025). DOI:10.1007/s11042-024-19293-7. https://link.springer.com/article/10.1007/s11042-024-19293-7?utm_source=researchgate.net&utm_medium=article 
 
