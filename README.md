@@ -359,7 +359,7 @@ This is interpreted as a modest empirical improvement rather than evidence that 
 Clone this repository using Git:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/SIT720-Task-11.1HD.git
+git clone https://github.com/ananyag270903/SIT720-Task-11.1HD.git
 ```
 
 Then move into the project directory:
