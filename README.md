@@ -554,6 +554,7 @@ The report contains:
 * controlled stacking versus soft-voting comparison
 * limitations and practical implications
 * supporting literature
+* Video presentation and Github repository links 
 * IEEE-formatted references
 
 ---
