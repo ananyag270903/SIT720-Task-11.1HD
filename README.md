@@ -562,8 +562,7 @@ The report contains:
 
 The accompanying video presentation demonstrates the reproduction, proposed solution, selected implementation outputs, comparative results and reflection.
 
-**Video link:** To be added after the final presentation is uploaded.
-
+**Video link:** https://deakin.au.panopto.com/Panopto/Pages/Viewer.aspx?id=4d2bf71f-bbe8-48e8-9246-b4d100a50bec 
 ---
 
 ## Reference
