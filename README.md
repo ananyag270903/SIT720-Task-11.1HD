@@ -110,7 +110,7 @@ Some implementation details were not completely specified in the selected paper.
 
 The reproduction uses:
 
-* an **80:20 stratified train/test split**
+* an 80:20 stratified train/test split
 * `random_state=42` where applicable
 * `StandardScaler` for continuous features
 * existing numerical codes for categorical features
@@ -138,9 +138,9 @@ The reproduced model results were:
 | XGBoost             |   1.0000 |    1.0000 | 1.0000 |   1.0000 | 1.0000 |
 | Stacking            |   1.0000 |    1.0000 | 1.0000 |   1.0000 | 1.0000 |
 
-During analysis of the reproduced results, I identified **723 exact duplicate rows** in the 1,025-row dataset.
+During analysis of the reproduced results, I identified 723 exact duplicate rows in the 1,025-row dataset.
 
-For my Part 1 split, **202 of the 205 test observations had an identical predictor row in the training data**, corresponding to **98.54% exact predictor overlap**.
+For my Part 1 split, 202 of the 205 test observations had an identical predictor row in the training data**, corresponding to **98.54% exact predictor overlap.
 
 This finding motivated the revised experimental methodology used in Part 2.
 
@@ -202,7 +202,7 @@ The exact predictor overlap between the Part 2 training and held-out test sets i
 
 ## Validation Strategy
 
-Model development is performed only using the **241 training observations**.
+Model development is performed only using the 241 training observations.
 
 A five-fold `StratifiedKFold` procedure is used with:
 
@@ -345,7 +345,7 @@ To determine whether the soft-voting architecture contributed beyond the change 
 | Paper-style Stacking |        0.8297 |         0.8263 |      0.8855 |  0.8516 |   0.9103 | 0.0387 |
 | Proposed Soft Voting |        0.8461 |         0.8387 |      0.9080 |  0.8680 |   0.9254 | 0.0337 |
 
-Under the same experimental conditions, the proposed soft-voting ensemble increased mean AUC by **0.0151** and mean Accuracy by **0.0164**.
+Under the same experimental conditions, the proposed soft-voting ensemble increased mean AUC by 0.0151 and mean Accuracy by 0.016.
 
 This is interpreted as a modest empirical improvement rather than evidence that soft voting is universally superior to stacking.
 
@@ -403,7 +403,7 @@ Install the required packages using:
 python3 -m pip install -r requirements.txt
 ```
 
-The implementation was developed and tested using **Python 3.12**.
+The implementation was developed and tested using Python 3.12.
 
 The main package versions are:
 
